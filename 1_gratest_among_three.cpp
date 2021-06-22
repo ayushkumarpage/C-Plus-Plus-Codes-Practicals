@@ -1,5 +1,5 @@
 /* Write a C++ program for finding greatest of three number. */
-// Author : Myitweb (www.myitweb.github.io)
+// Author : Ayush Kumar
 
 using namespace std;
 #include <iostream>
